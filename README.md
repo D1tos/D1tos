@@ -11,7 +11,7 @@ Infrastructure Engineer with 7 years of experience in enterprise IT infrastructu
 
 ## Featured Projects
 
-### Service Monitor
+### [Service Monitor](https://github.com/D1tos/service-monitor)
 CLI application for HTTP service monitoring with Telegram and Email notifications.
 
 ### InfraLab *(In Progress)*
@@ -43,3 +43,7 @@ Infrastructure laboratory focused on Docker, Linux and monitoring.
 - Service Monitor v1.0
 - InfraLab
 - Docker
+
+## Contact
+- Email: naumovtech@ya.ru
+- Telegram: @naumovtech
