@@ -3,7 +3,6 @@
 Infrastructure Engineer with 7 years of experience in enterprise IT infrastructure, specializing in Windows Server administration, Linux, automation and infrastructure operations.
 
 ## Current Focus
-
 - Linux Administration
 - Python Automation
 - Docker
@@ -40,8 +39,7 @@ Infrastructure laboratory focused on Docker, Linux and monitoring.
 - Proxmox
 - Zabbix
 
-  ## Currently Working On
-
+## Currently Working On
 - Service Monitor v1.0
 - InfraLab
 - Docker
