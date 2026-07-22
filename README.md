@@ -8,12 +8,15 @@ Infrastructure Engineer with 7 years of experience in enterprise IT infrastructu
 - Python Automation
 - Docker
 - Infrastructure as Code
-- Cloud Technologies
+- Cloud Platfoms
 
 ## Featured Projects
 
-- Service Monitor
-- InfraLab (in progress)
+### Service Monitor
+CLI application for HTTP service monitoring with Telegram and Email notifications.
+
+### InfraLab *(In Progress)*
+Infrastructure laboratory focused on Docker, Linux and monitoring.
 
 ## Tech Stack
 
@@ -24,6 +27,9 @@ Infrastructure Engineer with 7 years of experience in enterprise IT infrastructu
 - DHCP
 - Linux
 
+**Containers**
+- Docker
+
 **Automation**
 - Python
 - Bash
@@ -31,6 +37,11 @@ Infrastructure Engineer with 7 years of experience in enterprise IT infrastructu
 
 **Tools**
 - Git
-- Docker
 - Proxmox
 - Zabbix
+
+  ## Currently Working On
+
+- Service Monitor v1.0
+- InfraLab
+- Docker
