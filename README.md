@@ -1,6 +1,6 @@
 # Hi, I'm Alexander Naumov 👋
 
-Infrastructure Engineer with 7 years of experience in enterprise IT infrastructure.
+Infrastructure Engineer with 7 years of experience in enterprise IT infrastructure, specializing in Windows Server administration, Linux, automation and infrastructure operations.
 
 ## Current Focus
 
@@ -17,4 +17,20 @@ Infrastructure Engineer with 7 years of experience in enterprise IT infrastructu
 
 ## Tech Stack
 
-Windows Server • Linux • Active Directory • Python • Docker • Git • PowerShell • Proxmox • Zabbix
+**Infrastructure**
+- Windows Server
+- Active Directory
+- DNS
+- DHCP
+- Linux
+
+**Automation**
+- Python
+- Bash
+- PowerShell
+
+**Tools**
+- Git
+- Docker
+- Proxmox
+- Zabbix
